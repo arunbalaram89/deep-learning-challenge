@@ -10,9 +10,9 @@
 
 
 
-# NEURAL NETWORK REPORT #
+# NEURAL NETWORK REPORT 
 
-This 
+This report looks at the test that was done on 
 
 
 
