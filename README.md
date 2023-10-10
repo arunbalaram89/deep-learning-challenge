@@ -4,6 +4,13 @@
 
 This challenge looked at training a Neural Network, along with the 
 
+# Table of Contents
+Introduction
+Description - Neural Network Report
+Installation
+Contribution
+
+
 # Description
 This report looks at the model test that was done on this data.  
 
@@ -29,7 +36,12 @@ Even though the model did not achieve 75%, we felt that the model was very consi
 
 
 
-# Credit
+# Installation
+
+Google Colab Notebook
+
+
+# Contribution/Credit
 
 Arun Balaram
 DV Tutors - Justin Moore
