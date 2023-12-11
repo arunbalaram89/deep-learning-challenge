@@ -1,4 +1,4 @@
-# Deep Learning Challenge 
+# Deep Learning and Neural Network Challenge 
 
 # Introduction
 
